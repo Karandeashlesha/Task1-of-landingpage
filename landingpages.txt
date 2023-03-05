@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Landing Page design using html and Css</title>
+     <link rel="stylesheet" type="text/Css" href="sweb.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav class="nav1">
+            <div>
+                <p>
+                    Contact:Lake Road,suite 180 farmington Hills,
+                    India:+91 9284750230
+                </p>
+            </div>
+        <div>
+            <i class="fa fa-facebook"></i>
+            <i class="fa fa-google"></i>
+            <i class="fa fa-instagram"></i>
+            <i class="fa fa-twitter"></i>
+            <a href="#">Signup</a>
+            <a href="#">Signin</a>
+            </div>
+        </nav>
+<nav class="nav2">
+    <div class="logo">Intern Crowd</div>
+    
+<div class="menu">
+            <a href="#">Home</a>
+            <a href="#">Courses</a>
+           <a href="#">Internships</a>
+           <a href="#">Services</a>
+           <a href="#">About</a>
+
+</div>
+</nav>
+<div class="h-text">
+      <h1>Welcome To Intern Crowd</h1>
+    
+</div>
+
+<div class="m-text">
+       <h2>BUILDING THE KNOWLEDGE IDEAS</h2>
+</div>
+</header>
+
+    
+</body>
+</html>
